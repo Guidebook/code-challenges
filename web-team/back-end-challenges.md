@@ -76,8 +76,8 @@ log_file = [
 #    1. ("/", "/about", "/purchase")
 #    2. ("/about", "/purchase", "/thank-you")
 #
-# Your function should return the 10 most occurring triplets in the log file. Give the log file above, the
-# returned list should look like:
+# Your function should return the 10 most occurring triplets in the log file. Given the log file above, the
+# returned list should something look like:
 #
 # [
 #    ("/about", "/purchase", "/thank-you"), # cnt 2
