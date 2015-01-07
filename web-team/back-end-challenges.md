@@ -4,7 +4,7 @@ Below are a handful of quick challenges for back-end candidiates. Tackle whichev
 
 We use Python pervasively throughout our backend codebase, but use whichever language/framework you feel will solve the challenge effectively.
 
-### Shifted List Search
+## Shifted List Search
 
 We have a list of ordered integers (ex: `[1, 3, 7, 8, 9, 10, 11]`). Suppose we slice into that list at a random index and append the "top" half of list to the "bottom" (maintaining the order of both halves while doing so). Check the samples below for a better understanding of how the lists are mutated.
 
