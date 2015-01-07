@@ -4,11 +4,9 @@ Below are a handful of quick challenges for back-end candidiates. Tackle whichev
 
 We use Python pervasively throughout our backend codebase, but use whichever language/framework you feel will solve the challenge effectively.
 
-## Algorithm Challenges
+#### Shifted List Search
 
-### Sliding Number Search
-
-We have a list of ordered integers (ex: `[1, 3, 7, 8, 9, 10, 11]`). Suppose we slice into that list at a random index and shift the "top" part of list to the "bottom" (maintaining the order of both halves of the list). Check the samples below for a better understanding of how the lists are mutated.
+We have a list of ordered integers (ex: `[1, 3, 7, 8, 9, 10, 11]`). Suppose we slice into that list at a random index and append the "top" half of list to the "bottom" (maintaining the order of both halves while doing so). Check the samples below for a better understanding of how the lists are mutated.
 
 **Challenge:** Write a function that returns the largest integer in the "shifted" list.
 
@@ -31,13 +29,4 @@ shifted_list = [2, 4, 6, 8, 10]  # Here is the list after it has been sliced (at
 
 1. Can you identify any edge cases that we need to account for?
 2. Can you explain the orders of growth implications of the algorithm you implemented?
-3. Suppose our initial list contains 1 million elements, is there a faster way we can find the answer?
-
-### Most Occuring Triplets
-
-
-
-
-## Django Specific Challenges
-
-###
+3. Suppose our initial list contains 1 million elements, is there a more performant way we can find the answer?
