@@ -1,4 +1,4 @@
-# iOS Coding Challenge
+# iOS Coding Challenge One
 
 Create an iOS application that fetches JSON data from a Guidebook API endpoint and displays
 it using a table view. You may use any 3rd party libraries to build the application.
