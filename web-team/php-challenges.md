@@ -37,7 +37,7 @@ A guide object will look like:
 }
 ```
 
-Once you have the list of guides, save them into a database. It could be a good idea to use PDO here.
+Once you have the list of guides, save them into a database. It could be a good idea to use `PDO` here.
 You might have to create several tables but the schema structure is entirely up to you.
 
 ### What We'll Be Looking At ###
