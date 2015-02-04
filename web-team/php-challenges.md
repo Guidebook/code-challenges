@@ -40,6 +40,8 @@ A guide object will look like:
 Once you have the list of guides, save them into a database. It could be a good idea to use `PDO` here.
 You might have to create several tables but the schema structure is entirely up to you.
 
+You do not need to create the database via PHP but you can if you want. If you don't however, please include the SQL statement used in your archive.
+
 ### What We'll Be Looking At ###
 
 We want to make sure that the solution implements OO patterns properly and that the project is structured in a logical manner.
