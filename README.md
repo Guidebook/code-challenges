@@ -2,7 +2,7 @@
 
 The Guidebook code challenge is an opportunity to demonstrate proficiency in the problem solving skills we expect you to use at Guidebook.
 
-We don't believe there is a one-size-fits-all technology solution. Solid development is about using the right tool for the job, and constantly learning about them. Use your README to discuss the experience you have with the technical stack you selected and we'll make note of that when reviewing your solution.
+We don't believe there is a one-size-fits-all technology solution. Solid development is about using the right tools for the job, and constantly learning about them. Use your README to discuss the experience you have with the technical stack you selected and we'll make note of that when reviewing your solution.
 
 ## Expectations
 
