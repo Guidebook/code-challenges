@@ -23,7 +23,7 @@ Include the following items in your `README`:
 
 #### Commit History
 
-Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that's fine; we just ask that you keep your [commit history as coherent as possible](ard.org/docs/codebase/dev/git/clean-commits/).
+Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that's fine; we just ask that you keep your [commit history as coherent as possible](https://www.reviewboard.org/docs/codebase/dev/git/clean-commits/).
 
 ## What We Review
 
