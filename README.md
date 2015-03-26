@@ -39,5 +39,16 @@ Your application will be reviewed by at least three of our engineers. The aspect
 
 ## Links To Team Specific Challenges
 
-* Web Team > Front-End:
-* Web Team > Back-End:
+#### Web Team
+
+- [Front-End Challenges](web-team/front-end-challenges.md)
+- [Back-End Challenges](web-team/back-end-challenges.md)
+- [PHP Challenges](web-team/php-challenges.md)
+
+#### iOS Team
+
+- [iOS Challenge](ios-team/code-challenge-one.md)
+
+#### Android Team
+
+- [Android Challenge](android/README.md)
