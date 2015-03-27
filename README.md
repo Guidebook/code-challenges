@@ -2,7 +2,7 @@
 
 The Guidebook code challenge is an opportunity to demonstrate proficiency in the problem solving skills we expect you to use at Guidebook.
 
-We don't believe there is a one-size-fits-all technology solution. Solid development is about using the right tool for the job, and constantly learning about them. Use your README to discuss the experience you have with the technical stack you selected and we'll make note of that when reviewing your solution.
+We don't believe there is a one-size-fits-all technology solution. Solid development is about using the right tools for the job, and constantly learning about them. Use your README to discuss the experience you have with the technical stack you selected and we'll make note of that when reviewing your solution.
 
 ## Expectations
 
@@ -23,7 +23,7 @@ Include the following items in your `README`:
 
 #### Commit History
 
-Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that's fine; we just ask that you keep your [commit history as coherent as possible](ard.org/docs/codebase/dev/git/clean-commits/).
+Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that's fine; we just ask that you keep your [commit history as coherent as possible](https://www.reviewboard.org/docs/codebase/dev/git/clean-commits/).
 
 ## What We Review
 
@@ -39,5 +39,16 @@ Your application will be reviewed by at least three of our engineers. The aspect
 
 ## Links To Team Specific Challenges
 
-* Web Team > Front-End:
-* Web Team > Back-End:
+#### Web Team
+
+- [Front-End Challenges](web-team/front-end-challenges.md)
+- [Back-End Challenges](web-team/back-end-challenges.md)
+- [PHP Challenges](web-team/php-challenges.md)
+
+#### iOS Team
+
+- [iOS Challenge](ios-team/code-challenge-one.md)
+
+#### Android Team
+
+- [Android Challenge](android/README.md)
