@@ -44,7 +44,7 @@ each object contains key-value information about a specific guide.
 - Parse the retrieved JSON data into an array of objects of class `Guide`
 
 #### Milestone Three
-- Display the `Guide` objects in a UITableView. Each table cell represents one `Guide` object and should display it's name, city, state, start date, and end date.
+- Display the `Guide` objects in a UITableView or UICollectionView. Each cell represents one `Guide` object and should display it's name, city, state, start date, and end date.
 
 #### Milestone Four
-- Display the table cells sorted in ascending order by guide start date.
+- Display the cells sorted in ascending order by guide start date.
