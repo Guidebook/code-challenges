@@ -44,7 +44,17 @@ each object contains key-value information about a specific guide.
 - Parse the retrieved JSON data into an array of objects of class `Guide`
 
 #### Milestone Three
-- Display the `Guide` objects in a UITableView or UICollectionView. Each cell represents one `Guide` object and should display it's name, city, state, start date, and end date.
+- Display the `Guide` objects in a UITableView or UICollectionView. Each cell represents one `Guide` object and should display it's name, city, state, and end date.
 
 #### Milestone Four
-- Display the cells sorted in ascending order by guide start date.
+- Group the cells within UITableView or UICollectionView Sections by the `startDate` attribute.
+  - The sections should be displayed in ascending `startDate` order.
+  - The section header titles should be the `startDate` value in the sample format: "Jan 23, 2015"
+
+**Example of cells:**  
+**You may customize the design however you like!**
+
+![image](https://s3.amazonaws.com/uploads.hipchat.com/17292/98408/x1KgCYy0SXeyRQq/Screen%20Shot%202015-06-29%20at%204.08.03%20PM.png)
+
+#### Bonus:
+- Implement Pull to Refresh functionality.
