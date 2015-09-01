@@ -19,9 +19,8 @@ Assume that you have a single `text input` that will allow the user to enter str
 
 **Requirements:**
 
-* Capture key presses from a text input and send async calls to the server sending the current value of the input as the search term.
-* The results from each async request should be used to update the unordered list element.
-* The url you should make a request to is: https://guidebook.com/om/service/v2/search/?q=foo (where foo is the search string from the input).
+* Capture key presses from a text input and use the current value of the input to match items in the list (shown below).
+* The results from each search should be used to update the unordered list element.
 
 **Implementation:**
 
