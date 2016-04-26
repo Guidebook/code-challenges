@@ -6,7 +6,7 @@ We don't believe there is a one-size-fits-all technology solution. Solid develop
 
 ## Expectations
 
-Select one of the team specific challenges and create a new public repo for it on GitHub. Organize your code within that repo -- when you get to a stopping point, send a link to your project to the Guidebook recruiter you are working with: [Hibah](mailto:hibah@guidebook.com) or [Brett](mailto:brett@guidebook.com).
+Select one of the team specific challenges and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, zip up your git repository and send a link to your project to the Guidebook recruiter you are working with: [Hibah](mailto:hibah@guidebook.com) or [Brett](mailto:brett@guidebook.com).
 
 #### Time Allotment
 
