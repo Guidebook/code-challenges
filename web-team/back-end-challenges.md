@@ -1,6 +1,6 @@
 # Web Team Back-End Challenges
 
-Below are a handful of quick challenges for back-end candidiates. Tackle whichever challenge you'd like (unless we asked you to solve a specific challenge).
+Below are a handful of quick challenges for back-end candidates. Tackle whichever challenge you'd like (unless we asked you to solve a specific challenge).
 
 We use Python pervasively throughout our backend codebase; we would like to see you complete one of these challenges using Python.
 
