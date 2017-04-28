@@ -34,7 +34,7 @@ Spend no more than an hour completing as many of these steps as possible.
 
 2. Parse the data retrieved from the server into a list of Java objects
 
-3. Display your objects in an organized fashion (ListView, GridView, etc.)
+3. Display your objects in a RecyclerView
   - Should display the name, city, state, and end date
 
 4. In addition the object’s **name**, have your view display the image located at each object’s **icon** url.
