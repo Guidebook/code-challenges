@@ -29,7 +29,7 @@ Use whatever development workflow works best for you. If your solution is small 
 
 Your application will be reviewed by at least three of our engineers. The aspects of your code we will judge include:
 
-* **Clarity:** Does the README clearly explains the problem and solution?
+* **Clarity:** Does the README clearly explain the problem and solution?
 * **Correctness:** Does the application do what was asked? If there is anything missing, does the README explain why it is missing?
 * **Code Quality:** Is the code simple, easy to understand, and maintainable?
 * **Testing:** If required - how thorough are the automated tests? Will they be difficult to change if the requirements of the application were to change?
