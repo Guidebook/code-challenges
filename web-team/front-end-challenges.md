@@ -79,12 +79,11 @@ After following the instructions (if you get stumped or confused, please feel fr
 - Does `README.md` contain sufficient information to run the project?
 - Does it work?
 - How are the components structured?
-- Do the components contain any state?
 - How clean is the code?
 - Does the end result have a clean user experience?
 
 ### Tips
-- DRY code is not the only thing that matters, we care about complexity. Finding the line between writing simple and DRY code is part of the challenge.
+- DRY code is not the only thing that matters, we also care about things getting too complex. Finding the line between writing simple and DRY code is part of the challenge.
 - One of the core challenges here is how to structure components and stores around two types of data (strings and objects), it is important to recognize that before you start writing your code.
 
 ### Timeframe
