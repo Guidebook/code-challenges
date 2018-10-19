@@ -1,4 +1,4 @@
-# Frontend End Take Home Challenge
+# Frontend Take Home Challenge
 
 ## Autocomplete challenge
 Currently we're using [React](https://facebook.github.io/react/) throughout our codebase (which is written in ES6 Javascript).
