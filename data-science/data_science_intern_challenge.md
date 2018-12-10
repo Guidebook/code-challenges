@@ -26,9 +26,9 @@ For reference, this dataset includes the following events:
 - `ConnectionRequested` which we record every time a user sends a connection request to another user
 - `PhotoUpload` which we record every time a guide user uploads a photo to a guide
 
-However, your solution should not depend on knowing the possible event names in advance. Since this part of the exercise is intended to test your python fundamentals, please stick with the python standard library.
+However, your solution should not depend on knowing the possible event names in advance. Since this part of the exercise is intended to test your python fundamentals, please stick with the python standard library. Make sure to write your code and comments in such a way that someone looking at it for the first time will be able to understand the problem this solves and what the output data will look like.
 
-In part 2 you'll take a deeper look at the results from this step, so keep that in mind as you write this out. Once completed, you can import the list `INPUT_DATA` from `input_data.py`, included in this repo, to create the dataset for part 2. 
+In part 2 you'll take a deeper look at the results from this step, so keep that in mind as you write this out. Once completed, you can import the list `INPUT_DATA` from `input_data.py`, included in this repo, to create the dataset for part 2.
 
 ### Evaluation for Part 1
 For part 1 here we'll be looking mainly at your ability to perform data processing tasks with Python, and more specifically your software writing fundamentals. We won't be grading this as strictly as we would for a software engineering role, but as a team we place high value on readable, maintainable code.
@@ -36,9 +36,9 @@ For part 1 here we'll be looking mainly at your ability to perform data processi
 
 ## Part 2: Exploration and Discussion
 
-For the next part of the exercise, let's take a closer look at the `PhotoUpload` event. Using the dataset you created in part 1, please start by plotting a histogram of users bucketed by number of `PhotoUpload`s. Using this plot, what would you tell the team about how users are using this feature? Are there any interesting subsets of users the team should think about? For those subsets, what do their distributions say about their usage patterns for Photo Uploads?
+For the next part of the exercise, let's take a closer look at the `PhotoUpload` event. Using the dataset you created in part 1, please start by plotting a histogram of users bucketed by number of times they triggered a `PhotoUpload` event. Using this plot and anything else you think would help build your narrative, what would you tell the team about how users are using the photo upload feature?
 
-Please complete a brief write-up of your findings. Include all code needed to reproduce your results, and save all plots as image files in your repo. For this part of the exercise feel free to use any libraries you like.
+Please complete a brief write-up of your findings. Include all code needed to reproduce your results, and save all plots as image files in your repo. For this part of the exercise feel free to use any python libraries you like.
 
 ### Evaluation for Part 2
 In this section we'll be looking at your data exploration skills, along with your ability to communicate your findings. When looking at these submissions we'll be asking questions like, "How well did this candidate communicate their work?", and "How well do they justify their conclusions with the given data?" This exercise is a simplified example of the kinds of problems you'd work on as a Data Science Intern at Guidebook and using datasets to tell stories about our platform will be one of the most important things you do in this role.
