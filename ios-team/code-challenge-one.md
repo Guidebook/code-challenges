@@ -1,7 +1,9 @@
 # iOS Coding Challenge One
 
-Create an iOS application written in **Objective-C** that fetches JSON data from a Guidebook API endpoint and displays
+Create an iOS application written in either Objective-C or Swift that fetches JSON data from a Guidebook API endpoint and displays
 it using a table view. You may use any 3rd party libraries to build the application.
+
+_Note: As you will be uploading your solution to GitHub, please do do not include the word “Guidebook” in your code._
 
 ## API Endpoint
 The following endpoint responds with JSON data, representing a list of upcoming guides.
@@ -34,7 +36,7 @@ each object contains key-value information about a specific guide.
 }
 ```
 
-##Challenge Milestones
+## Challenge Milestones
 
 #### Milestone One
 - Create an iOS XCode project or workspace for this application in a new git repo.
