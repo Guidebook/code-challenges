@@ -6,7 +6,7 @@ We don't believe there is a one-size-fits-all technology solution. Solid develop
 
 ## Expectations
 
-Select one of the team specific challenges and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, commit and push your code and email a link to your repo to [Mallory](mailto:mallory@guidebook.com).
+Select one of the team specific challenges and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, commit and push your code and email a link to your repo to the hiring manager.
 
 #### Time Allotment
 
