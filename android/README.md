@@ -27,14 +27,23 @@ The response represents a list of “Guide” objects:
   }
   ```
 
-# Milestones
-Spend no more than an hour completing as many of these steps as possible.
+# Deliverables
+Spend rougly 1 - 2 hours completing as many of the following deliverables as possible. Please use the MVVM pattern to structure your code.
 
-1. Retrieve and print out the data received from the url above.
+* Retrieve and print out the data received from the url above.
 
-2. Parse the data retrieved from the server into a list of Java objects
+* Parse the data retrieved from the server into a list of Java objects
 
-3. Display your objects in a RecyclerView
-  - Should display the name, city, state, and end date
+* Display your objects in a ListView or RecyclerView
+  - Every item should show the guide name and start date
 
-4. In addition the object’s **name**, have your view display the image located at each object’s **icon** url.
+* Create two build configurations, labeled 'Build A', and 'Build B'
+  - Depending on which configuration was built, the app should show text at the top of the list with the current build. For example, if the project was built for 'Build A', then 'Build A' would show at the top of the screen, followed by the list of guides.
+
+* Write tests that cover the above requirements, how many tests you write and what you write them for is up to you
+
+# Notes
+
+* A readme that explains a quick summary of the process you took when building this challenge is encouraged
+
+* Note roughly how long this took you. If the challenge takes substantially longer than 1 - 2 hours, stop and write notes on where you left off before submitting
