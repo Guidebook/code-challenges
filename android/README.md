@@ -32,7 +32,7 @@ Spend rougly 1 - 2 hours completing as many of the following deliverables as pos
 
 * Retrieve and print out the data received from the url above.
 
-* Parse the data retrieved from the server into a list of Java objects
+* Parse the data retrieved from the server into a list of objects (Kotlin or Java).
 
 * Display your objects in a ListView or RecyclerView
   - Every item should show the guide name and start date
@@ -44,6 +44,6 @@ Spend rougly 1 - 2 hours completing as many of the following deliverables as pos
 
 # Notes
 
-* A readme that explains a quick summary of the process you took when building this challenge is encouraged
+* A README that explains a quick summary of the process you took when building this challenge is encouraged
 
 * Note roughly how long this took you. If the challenge takes substantially longer than 1 - 2 hours, stop and write notes on where you left off before submitting

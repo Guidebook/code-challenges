@@ -6,11 +6,11 @@ We don't believe there is a one-size-fits-all technology solution. Solid develop
 
 ## Expectations
 
-Select one of the team specific challenges and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, commit and push your code and email a link to your repo to the hiring manager.
+Select the appropriate team specific challenge and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, commit and push your code and email a link to your repo to the hiring manager.
 
 #### Time Allotment
 
-We respect your time and don't want you spending more 3 hours on your challenge (the challenges are scoped for ~1hr timeframe). We just want to get a sense of your thought process and development patterns. If there are features you don't have time to implement, feel free to use pseudo code to describe the intended behavior.
+We respect your time and don't want you spending more 2 hours on your challenge (the challenges are scoped for ~1hr timeframe). We just want to get a sense of your thought process and development patterns. If there are features you don't have time to implement, feel free to use pseudo code to describe the intended behavior.
 
 
 #### Your Challenge README
@@ -27,7 +27,7 @@ Use whatever development workflow works best for you. If your solution is small 
 
 ## What We Review
 
-Your application will be reviewed by at least three of our engineers. The aspects of your code we will judge include:
+Your application will be reviewed by our team of engineers. The aspects of your code we will judge include:
 
 * **Clarity:** Does the README clearly explain the problem and solution?
 * **Correctness:** Does the application do what was asked? If there is anything missing, does the README explain why it is missing?
@@ -38,17 +38,7 @@ Your application will be reviewed by at least three of our engineers. The aspect
 
 
 ## Links To Team Specific Challenges
-
-#### Web Team
-
 - [Front-End Challenges](web-team/front-end-challenges.md)
 - [Back-End Challenges](web-team/back-end-challenges.md)
-- [PHP Challenges](web-team/php-challenges.md)
-
-#### iOS Team
-
 - [iOS Challenge](ios-team/code-challenge-one.md)
-
-#### Android Team
-
 - [Android Challenge](android/README.md)
