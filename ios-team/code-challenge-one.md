@@ -12,7 +12,7 @@ More specifically, the value for the `data` key is an array of JSON objects wher
 each object contains key-value information about a specific guide.
 
 **URL:**
-`GET https://www.guidebook.com/service/v2/upcomingGuides/`
+`GET https://builder.guidebook.com/service/v2/upcomingGuides/`
 
 **Sample Response:**
 
