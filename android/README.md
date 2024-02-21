@@ -7,7 +7,7 @@ Create an Android application that displays information received over the networ
 
 The server at the following url responds with JSON formatted data:
 
-```(GET) https://guidebook.com/service/v2/upcomingGuides/```
+```(GET) https://builder.guidebook.com/service/v2/upcomingGuides/```
 
 The response represents a list of “Guide” objects:
 
